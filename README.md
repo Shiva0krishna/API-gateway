@@ -1,6 +1,6 @@
 # api-gateway-express
 This is a simple API gateway for nodejs application running on the express framework.
-
+Update your links to desired  applications to connect  between them without any restrictions of cors.
 ....
 
 ## How to use?
